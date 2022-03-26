@@ -1,0 +1,2 @@
+# JavaSample
+for saving records
